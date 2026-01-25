@@ -16,7 +16,7 @@ public class Ex07_01 {
     System.out.println(kim1.height);
     System.out.println(kim1.address);
 
-    kim1.studyCoding();
+    // kim1.studyCoding();
     kim1.introduce();
 
     System.out.println("---");
