@@ -5,5 +5,13 @@ public class PublicA {
 
   public PublicA(int a) {
     this.a = a;
-  } 
+  }
+
+  private void printA() {
+    System.out.println("private 테스트");
+  }
+
+  void runPrintA() {
+    this.printA();
+  }
 }
