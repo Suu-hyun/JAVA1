@@ -17,6 +17,6 @@ class SamsongComputer extends Computer {
   @Override
   void powerOn() {
     super.powerOn();
-    System.out.println("아리 러브" + this.brandName);
+    System.out.println("아이 러브" + this.brandName);
   }
 }
