@@ -1,7 +1,5 @@
 package sec18;
 
-import java.net.Socket;
-
 class Storage {
     private int stackCount = 10;
     
